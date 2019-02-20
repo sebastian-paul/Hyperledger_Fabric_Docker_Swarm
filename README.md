@@ -20,9 +20,16 @@ IP: 192.168.0.60
 hostname
 ```
 
+
 modify ./org1/ca.yaml , ./org1/orderer.yaml, ./org1/peer0.yaml , ./org1/peer1.yaml with hostname of PC1
+
+
 modify ./org2/ca.yaml , ./org2/peer0.yaml , ./org2/peer1.yaml with hostname of PC2
+
+
 modify ./artifacts/network-config.yaml file with corresponding IP adsress of PC1 and PC2
+
+
 
 ##### STEP 1
 * Terminal PC1
